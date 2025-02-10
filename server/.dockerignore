@@ -1,0 +1,6 @@
+venv
+test
+start.sh
+__pycache__
+Dockerfile
+.dockerignore

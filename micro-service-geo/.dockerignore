@@ -1,0 +1,7 @@
+venv
+test
+.vscode
+start.sh
+__pycache__
+Dockerfile
+.dockerignore
